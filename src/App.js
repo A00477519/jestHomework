@@ -19,6 +19,7 @@ function App() {
   }, [dataType]);
 
   return (
+    
     <div className="App">
       <h1>Hello Canada</h1>
       <img
